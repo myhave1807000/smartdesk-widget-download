@@ -1,4 +1,4 @@
-# Smartdesk Widget
+# SmartDesk Widget
 
 En skrivebordswidget for **Windows** og **Mac**. Samle nettsider, programmer og små widgeter
 rundt et midtpunkt rett på skrivebordet – i en radial, som noder, som prosess eller som tabell.
@@ -7,25 +7,25 @@ rundt et midtpunkt rett på skrivebordet – i en radial, som noder, som prosess
 
 | Plattform | Fil |
 | --- | --- |
-| Windows 10/11 (64-bit) | `Smartdesk-Widget-Windows.zip` |
-| Mac (Apple Silicon og Intel) | `Smartdesk-Widget-Mac.zip` |
+| Windows 10/11 (64-bit) | `SmartDesk-Widget-Windows.zip` |
+| Mac (Apple Silicon og Intel) | `SmartDesk-Widget-Mac.zip` |
 
 ## Installere
 
 **Windows**
 1. Høyreklikk på zip-filen → *Egenskaper* → huk av for *Fjern blokkering* → *OK*. Pakk ut.
-2. Kjør `Smartdesk Widget Setup 1.0.0.exe`.
+2. Kjør `SmartDesk Widget Setup 1.0.0.exe`.
 3. Ser du «Windows beskyttet PC-en din»: klikk *Mer informasjon* → *Kjør likevel*.
 
 **Mac**
-1. Pakk ut og dra `Smartdesk Widget.app` til *Programmer*.
+1. Pakk ut og dra `SmartDesk Widget.app` til *Programmer*.
 2. Første gang: *Systeminnstillinger* → *Personvern og sikkerhet* → *Åpne likevel*.
 
 ## Basic og Pro
 
 | | Basic | Pro |
 | --- | --- | --- |
-| Pris | Gratis | Se [www.prosessiv.no](https://www.prosessiv.no) |
+| Pris | Gratis | Se [prosessiv.no](https://www.prosessiv.no/produkter/smartdeskwidget/) |
 | Grupper | Opptil 2 | Ubegrenset |
 | Former: radial, noder, prosess, tabell | ✓ | ✓ |
 | Nettsider og programmer | ✓ | ✓ |
