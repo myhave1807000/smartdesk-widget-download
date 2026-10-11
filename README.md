@@ -14,7 +14,7 @@ rundt et midtpunkt rett på skrivebordet – i en radial, som noder, som prosess
 
 **Windows**
 1. Høyreklikk på zip-filen → *Egenskaper* → huk av for *Fjern blokkering* → *OK*. Pakk ut.
-2. Kjør `SmartDesk Widget Setup 1.0.0.exe`.
+2. Kjør `SmartDesk Widget Setup` (exe-filen i mappen).
 3. Ser du «Windows beskyttet PC-en din»: klikk *Mer informasjon* → *Kjør likevel*.
 
 **Mac**
